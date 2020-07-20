@@ -1,5 +1,9 @@
 # STOCK_PREDICTION
 
+Download dataset from:
+https://drive.google.com/drive/folders/1pU6qCnlxy6BlJW95tOcAV9_hOzyq7nKm
+
+
 There are Two .py files and two .pynb files namely
 
 1. stock_prediction
